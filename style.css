@@ -37,4 +37,6 @@
 #container_carousel {
   padding: 0;
   margin: 0;
+  position: relative;
+  top: 100px;
 }
