@@ -1,0 +1,33 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+   
+
+#conainer_carousel {
+   position: relative;
+    top: 200px;
+    text-align: center;
+
+
+}
+
+#email{
+    width: 400px;
+}
+#pwd{
+    width: 400px;
+}
+
+.form-horizontal {
+    position: relative;
+    left:40%;
+    top: 100px;
+}
+
+#Account_Header{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
