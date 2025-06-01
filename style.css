@@ -35,8 +35,9 @@
   display: block;
 }
 #container_carousel {
+      width: 50% !important;
+    margin: 100px auto 0 auto;  /* top: 100px → margin-top instead */
   padding: 0;
-  margin: 0;
-  position: relative;
-  top: 100px;
+  text-align: center;
+
 }
