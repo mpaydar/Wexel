@@ -36,7 +36,6 @@
 }
 #container_carousel {
       width: 100% !important;
-    margin: 100px auto 0 auto;  /* top: 100px → margin-top instead */
   padding: 0;
   text-align: center;
 
