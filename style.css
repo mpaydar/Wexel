@@ -5,7 +5,9 @@
 }
    
 
-
+.firstPartHome{
+    background-color: rgb(96 97 112 / var(--tw-text-opacity, 1));
+}
 
 #email{
     width: 400px;
@@ -38,4 +40,10 @@
   padding: 0;
   text-align: center;
 
+}
+
+#service1, #service2, #service3 {
+    border-style: double;
+    padding: 20px;
+    text-align: center;
 }
